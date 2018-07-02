@@ -1,0 +1,23 @@
+{
+  "name": "oidc-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "angular": "^1.6.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micahp0506/oidc-example.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/micahp0506/oidc-example/issues"
+  },
+  "homepage": "https://github.com/micahp0506/oidc-example#readme"
+}
